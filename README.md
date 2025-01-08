@@ -2,7 +2,7 @@
 Experience the power of organization and task management with our Kanban Board developed using React, Typescript, Tailwind CSS, and DnD-kit. Stay on top of your tasks and projects seamlessly.
 
 
-## ⚙ Technology Stack:
+## Technology Stack:
 
 - React with Vite  
 - TypeScript  
@@ -22,4 +22,4 @@ Experience the power of organization and task management with our Kanban Board d
 - Start the development server: `npm run dev`
 - Open your browser and visit: `http://localhost:5173`
 
-### Thanks for watching the repo and site:
+### Thanks for watching the repo:
